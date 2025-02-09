@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Engineering Colleges in Kerala</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Inno Kerala</h1>
+    </header>
+
+    <div class="filter-section">
+        <label for="university">University:</label>
+        <select id="university">
+            <option value="all">All</option>
+            <option value="KTU">KTU</option>
+            <option value="NIT">NIT</option>
+            <option value="CUSAT">CUSAT</option>
+            <option value="IIT">IIT</option>
+            <option value="IISER">IISER</option>
+            <option value="KERALA UNIVERSITY">KERALA UNIVERSITY</option>  
+            <option value="MGU">MGU</option>
+            <option value="UNIVERSITY OF CALICUT">UNIVERSITY OF CALICUT</option>
+
+           </select>
+
+        <label for="collegeType">Type:</label>
+        <select id="collegeType">
+            <option value="all">All</option>
+            <option value="Government">Government</option>
+            <option value="Private">Private</option>
+            <option value="Government-Aided">Government-Aided</option>
+        </select>
+
+        <label for="seats">Seats:</label>
+        <select id="seats">
+            <option value="all">All</option>
+            <option value="less100">Less than 100</option>
+            <option value="100-200">100-200</option>
+            <option value="more200">More than 200</option>
+        </select>
+
+      
+
+        <label for="location">Location:</label>
+        <select id="location">
+            <option value="all">All</option>
+            <option value="Thiruvananthapuram">Thiruvananthapuram</option>
+            <option value="Kollam">Kollam</option>
+            <option value="Kottayam">Kottayam</option>
+            <option value="Thrissur">Thrissur</option>
+            <option value="Kozhikode">Kozhikode</option>
+            <option value="Palakkad">Palakkad</option>
+            <option value="Malappuram">Malappuram</option>
+            <option value="Kannur">Kannur</option>
+            <option value="Kasargode">Kasargode</option>
+            <option value="Wayanad">Wayanad</option>
+            <option value="Alappuzha">Alappuzha</option>
+            <option value="Idukki">Idukki</option>
+            <option value="Pathanamthitta">Pathanamthitta</option>
+            <option value="Ernakulam">Ernakulam</option>
+
+        </select>
+    </div>
+
+    <table id="collegeTable">
+        <thead>
+            <tr>
+                <th>University</th>
+                <th>College Name</th>
+                <th>Location</th>
+                <th>Seats</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody id="collegeList"></tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
