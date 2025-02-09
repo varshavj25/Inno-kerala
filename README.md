@@ -41,11 +41,14 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![Screen![Screenshot 2025-02-09 100021](https://github.com/user-attachments/assets/a42b3e06-c547-461b-8fd0-6a3025bbedba)
+shot1](Add screenshot 1 here with proper name) shows the first page of the website
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![Scre![Screenshot 2025-02-09 100052](https://github.com/user-attachments/assets/8e4cc7e3-0522-4f1c-a952-4c05ba7c297c)
+enshot2](Add screenshot 2 here with proper name) shows the website title and filters applied
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![Screenshot3](Add screenshot 3 here with proper name) shows the discription of a college
+![Screenshot 2025-02-09 100124](https://github.com/user-attachments/assets/acb29004-a768-48ae-ae11-684ddedbbba4)
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
@@ -68,10 +71,9 @@ Build Photos
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
-
+https://drive.google.com/file/d/1EjWhtbpT7PbgFsmrOJRkeJbYKRbxsega/view?usp=drive_link
 Additional Demos
-[Add any extra demo materials/links]
+https://varshavj25.github.io/Inno-kerala/
 
 Team Contributions
 [Name 1]: [Specific contributions]
